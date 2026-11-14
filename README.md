@@ -2,7 +2,7 @@
 
 A sleek, minimal dark-mode expense tracker built to record daily income and expenses, calculate live balances, visualize category spending, and switch seamlessly across international currencies.
 
-**Try the Live App Here:** `https://marvex-scoarts.github.io/personal-expense-tracker/`
+**Try the Live App Here:** https://marvex-scoarts.github.io/personal-expense-tracker/
 
 ---
 
